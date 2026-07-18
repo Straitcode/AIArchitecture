@@ -1,5 +1,5 @@
 # AI 18-layer model
-A fully constituted AI system architecture which can also be called a cyber-physical-legal entity. It has 18 layer forming a physically constrained, legally governed, economically optimized and cognitively hybrid.
+A fully constituted AI architecture which can also be called a cyber-physical-legal entity. Below is the 18 layers forming a physically constrained, legally governed, economically optimized and cognitively hybrid AI system. These layers are the current frontier of enterprise AI engineering operating behind security systems whether on production or emerging.
 
 ```mermaid
 graph TD
