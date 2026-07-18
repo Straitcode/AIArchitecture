@@ -14,7 +14,7 @@ graph TD
 
     User[("👤 End User / Agent")]:::user --> Interface[Interface Layer<br/>Chat/Voice/API]:::native
     
-    subgraph "🛡️ Security & Governance Perimeter (Native)"
+    subgraph "🛡️ Governance System & Security Perimeter (Native)"
         Interface --> Guardrails[Security Guardrails<br/>PII Redaction / Injection Defense]:::security
         Guardrails --> Orch[Orchestration Engine<br/>Workflow & State Mgmt]:::native
     end
