@@ -80,6 +80,7 @@ graph TD
     Feedback -.->|Collects| HITL
     Feedback -.->|Collects| User
 
-    legend[<b>Legend</b><br/>🟦 User | 🟩 Native Platform | 🟧 Decoupled Service | 🟪 User Data | 🟥 Security | 🟦 Future/Emerging | ⬛ Physical]
-    style legend fill:#fff,stroke:#333,stroke-width:1px   
+    %% FIXED LEGEND: Replaced pipes '|' with bullets '•'
+    legend[<b>Legend</b><br/>🟦 User • 🟩 Native • 🟧 Decoupled • 🟪 Data • 🟥 Security • 🟦 Future • ⬛ Physical]
+    style legend fill:#fff,stroke:#333,stroke-width:1px    
 ```
