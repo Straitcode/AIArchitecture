@@ -55,4 +55,4 @@ Stakeholders, educators and learners should find these constructs instructive or
 
 You cannot build the **5 layers** today without implementing the specific **18 layers** to achieve production reliability, security and cost control. 
 
-**AI evolution continues**. The future will demonstrate whether this architecture is definitive or a different one is needed.
+**AI evolution continues**. The **future** (theoretically, the 18 layers will stay but **additional layers and sub-layers are seen to be a natural progression**) will demonstrate whether this architecture is definitive or a different one is needed.
