@@ -51,7 +51,8 @@ The **definitive tabular equivalent** of AI System architecture, mapping every l
 ### Conclusion
 The **5-layer model** is a useful **conceptual map** for executives.
 The **18-layer model** is the **engineering blueprint** for builders.
+Educators and learners should find these constructs instructive in real-world environments.  
 
-You cannot build the **5 layers** today without implementing the specific **18 layers** to achieve production reliability, security, and cost control. 
+You cannot build the **5 layers** today without implementing the specific **18 layers** to achieve production reliability, security and cost control. 
 
 **AI evolution continues**. The future will demonstrate whether this architecture is definitive or a different one is needed.
