@@ -1,7 +1,7 @@
 # AI 18-layer model
 ## A fully constituted AI architecture which can also be called a cyber-physical-legal entity. 
 
-Below is the 18 layers forming a physically constrained, legally governed, economically optimized and cognitively hybrid AI system. These layers are the current frontier of enterprise AI engineering operating behind security systems whether on production or emerging. (This visual can be referred to the [table](https://github.com/Straitcode/AIArchitecture/blob/main/AI%2018L%20model.md) for textual details.)
+Below is the 18 layers forming a physically constrained, legally governed, economically optimized and cognitively hybrid AI system. These layers are the current frontier of enterprise AI engineering operating behind security systems whether on production or emerging. (This visual can be referred to the table in the [README](https://github.com/Straitcode/AIArchitecture/blob/main/README.md) for textual details.)
 
 ```mermaid
 graph TD
