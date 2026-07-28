@@ -5,7 +5,7 @@ The **definitive tabular equivalent** of AI System architecture, mapping every l
 
 ### AI System Architecture
 
-| # | Layer Name | Category | Status | Primary Function | Key Components & Technologies |
+| # | Layer Name | Category | Status | Primary Function | Technologies (Known Applications) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **1** | **Energy & Thermal Mgmt** | **Physical** | **Active / Critical** | Manages power delivery, cooling, and carbon constraints for high-density GPU clusters. | Liquid Cooling, SMRs, Grid-Interactive Logic, Carbon Accounting. |
 | **2** | **Security Guardrails** | **Safety (Native)** | **Standard / Built-in** | Enforces real-time policy, redacts PII, and blocks injections before/after model processing. | AI Firewalls, PII Redactors, Injection Detectors. |
@@ -18,7 +18,7 @@ The **definitive tabular equivalent** of AI System architecture, mapping every l
 | **9** | **Foundation Models** | **Model (Native)** | **Core / Commodity** | The probabilistic reasoning engine (LLMs, Multimodal). | GPT-5, Llama 4, Claude 4, Gemini Ultra. |
 | **10** | **Neuro-Symbolic Engine** | **Model (Future)** | **Niche Production** | Hybrid reasoning combining neural fluency with deterministic logic solvers. | Logic Solvers, Knowledge Graphs, Constraint Engines. |
 | **11** | **RAG Retriever** | **Verification (Native)** | **Standard / Built-in** | Fetches grounded context from vector stores to reduce hallucinations. | Vector DB Connectors, Re-ranking Engines. |
-| **12** | **Formal Governance** | **Control (Decoupled)** | **Emerging / Regulatory** | Encodes laws and ethics as executable "Policy-as-Code" to override model outputs. | OPA (Open Policy Agent), Constitutional AI, Audit Ledgers. |
+| **12** | **Governance System** | **Control (Decoupled)** | **Emerging / Regulatory** | Encodes governance laws, rules and ethics as executable "Governance-as-Code, Policy-as-Code, Compliance-as-Code et al" to override model outputs. | OPA (Open Policy Agent), Constitutional AI, Audit Ledgers. |
 | **13** | **HITL Service** | **Safety (Decoupled)** | **Standard / High-Risk** | Manages human approval queues for low-confidence or high-stakes decisions. | Approval Dashboards, Slack/Teams Bots, Workflow Pauses. |
 | **14** | **Observability** | **Ops (Native)** | **Standard / Built-in** | Traces costs, latency, drift, and token usage across the entire stack. | LangSmith, Arize, Prometheus, Cost Dashboards. |
 | **15** | **FinOps Engine** | **Ops (Decoupled)** | **Active / Essential** | Optimizes spend via caching, model routing, and budget enforcement. | Token Budgets, Response Caches, Dynamic Routers. |
@@ -40,7 +40,7 @@ The **definitive tabular equivalent** of AI System architecture, mapping every l
 | **4. AGENT & ORCHESTRATION LAYER**<br>*(LangGraph, Multi-Agent Chaining, Routers)* | • **4. Orchestration Engine** (Workflow/State)<br>• **15. FinOps Engine** (Cost Routing)<br>• **16. Resilience Layer** (Circuit Breakers)<br>• **17. Feedback Loop** (RLHF) | Orchestration now requires dedicated **economic control** (FinOps), **failure handling** (Resilience), and **learning loops** (Feedback) to function autonomously. |
 | **3. COGNITIVE ENGINE LAYER**<br>*(Foundation Models, Real-time Inference)* | • **9. Foundation Models** (LLMs)<br>• **10. Neuro-Symbolic Engine** (Logic Solvers)<br>• **8. Model Registry** (Versioning) | The "Engine" is no longer just a model; it is a **hybrid system** (Neural + Symbolic) managed by a **Registry** for governance and swapping. |
 | **2. KNOWLEDGE & RETRIEVAL LAYER**<br>*(Vector Stores, Semantic Indexes, RAG)* | • **5. Data Preparation** (Chunking/OCR)<br>• **6. Semantic Layer** (Business Logic)<br>• **7. Long-Term Memory** (Graph/Vector)<br>• **11. RAG Retriever** (Grounding) | "Knowledge" requires **pre-processing** (Prep), **business context** (Semantic), and **persistent state** (Memory) before it can be retrieved (RAG). |
-| **1. ACCELERATED INFRASTRUCTURE LAYER**<br>*(Silicon, Fabric, Compute Pools)* | • **1. Energy & Thermal Mgmt** (Power/Cooling)<br>• **2. Security Guardrails** (Perimeter)<br>• **12. Formal Governance** (Policy-as-Code)<br>• **14. Observability** (Tracing) | Infrastructure now explicitly includes **energy constraints** (physical limit), **security perimeters**, and **governance** which sit below or around the silicon. |
+| **1. ACCELERATED INFRASTRUCTURE LAYER**<br>*(Silicon, Fabric, Compute Pools)* | • **1. Energy & Thermal Mgmt** (Power/Cooling)<br>• **2. Security Guardrails** (Perimeter)<br>• **12. Governance System** (Governance-as-Code, et al)<br>• **14. Observability** (Tracing) | Infrastructure now explicitly includes **energy constraints** (physical limit), **security perimeters**, and **governance** which sit below or around the silicon. |
 
 ### Key Differences in Perspective
 
