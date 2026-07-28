@@ -5,7 +5,7 @@ The **definitive tabular equivalent** of AI System architecture, mapping every l
 
 ### AI System Architecture
 
-| # | Layer Name | Category | Status | Primary Function | Technologies (Known Applications) |
+| # | Layer Name | Category | Status | Primary Function | Technologies (& Known Applications) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **1** | **Energy & Thermal Mgmt** | **Physical** | **Active / Critical** | Manages power delivery, cooling, and carbon constraints for high-density GPU clusters. | Liquid Cooling, SMRs, Grid-Interactive Logic, Carbon Accounting. |
 | **2** | **Security Guardrails** | **Safety (Native)** | **Standard / Built-in** | Enforces real-time policy, redacts PII, and blocks injections before/after model processing. | AI Firewalls, PII Redactors, Injection Detectors. |
