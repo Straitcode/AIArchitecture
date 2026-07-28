@@ -1,7 +1,7 @@
 # AI Architecture, 18-layer model
 A fully constituted AI system architecture which can also be called a cyber-physical-legal entity.
 
-The **definitive tabular equivalent** of AI System architecture, mapping every layer from the **Physical Foundation** to the **Emerging Future**, including their current status and function.
+The **definitive tabular equivalent** of [AI System architecture](https://github.com/Straitcode/AIArchitecture/blob/main/AI%2018L%20model.md), mapping every layer from the **Physical Foundation** to the **Emerging Future**, including their current status and function.
 
 ### AI System Architecture
 
